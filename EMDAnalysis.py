@@ -239,7 +239,10 @@ class EMDAnalysis:
         min_index = min_index[np.logical_and(diff1 > threshold, diff2 > threshold)]
 
         return max_index, min_index
+<<<<<<< HEAD
     
     
 
     
+=======
+>>>>>>> 0f22d1e8d9d8e86c222918c104c106d833a07e46
