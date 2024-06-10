@@ -1,13 +1,9 @@
-# xcw_package
-self-build algorithm about signal processing
+# ***xcw_package***
 
-## Introduction
-This is a code package maining written on Python, whick is use to analyze vibration signal and process it.
+# 介绍
+机械设备故障诊断方法的Python实现，主要围绕振动信号的分析和处理，及相关学习笔记
 
-Fow now, it include easy implement algorithm of classic signal processing method like Wavelet Analysis, EMD and so on.
-
-It is all build by myself
-
-this is new sentence
-
-this is another new sentence
+# 内容
+- EMD类分析方法
+- 小波类分析方法
+- 谱峭度类分析方法
